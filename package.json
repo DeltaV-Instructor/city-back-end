@@ -1,0 +1,19 @@
+{
+  "name": "city-back-end",
+  "version": "1.0.0",
+  "description": "city back end server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaV-Instructor/city-back-end.git"
+  },
+  "author": "Craig/Allie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeltaV-Instructor/city-back-end/issues"
+  },
+  "homepage": "https://github.com/DeltaV-Instructor/city-back-end#readme"
+}
